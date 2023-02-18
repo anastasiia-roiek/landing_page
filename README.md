@@ -6,5 +6,5 @@
   - Flexbox,
   - CSS Grid,
   - BEM
-- [DEMO LINK]()
+- [DEMO LINK](https://anastasiia-roiek.github.io/landing_page/)
 # landing_page
